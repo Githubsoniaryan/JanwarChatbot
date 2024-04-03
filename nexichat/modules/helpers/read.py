@@ -3,7 +3,7 @@ from nexichat import nexichat
 
 START = f"""
 **๏ ʜᴇʏ, ɪ ᴀᴍ [{nexichat.name}](t.me/{nexichat.username})**
-**➻ ᴀɴ ᴀɪ ʙᴀsᴇᴅ ᴄʜᴀᴛʙᴏᴛ**
+**➻ ɪ ᴀᴍ ᴄʜᴀɴɢᴇ ʏᴏᴜʀ sʏsᴛᴇᴍᴍᴍᴍᴍ....**
 **──────────────**
 **➻ ᴜsᴀɢᴇ /chatbot [ᴏɴ/ᴏғғ]**
 <b>||๏ ʜɪᴛ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ғᴏʀ ʜᴇʟᴘ.||</b>
