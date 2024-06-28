@@ -29,7 +29,7 @@ from nexichat.modules.helpers import (
 
 # Random Start Images
 IMG = [
-    https://te.legra.ph/file/88c677a64a4cb9e96ee16.jpg",
+    "https://te.legra.ph/file/88c677a64a4cb9e96ee16.jpg",
 ]
 
 
