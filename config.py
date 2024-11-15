@@ -10,8 +10,8 @@ API_HASH = "80dce690dfd8a96f83f20bbe23c28258"
 # --------------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 MONGO_URL = getenv("MONGO_URL", None)
-OWNER_ID = "7160246535"
-SUPPORT_GRP = "knight_society"
+OWNER_ID = "7753021196"
+SUPPORT_GRP = "pallavi_sarkar2"
 UPDATE_CHNL = "itsRareBeautySelenaGomez"
 OWNER_USERNAME = "AnimalJanwarrrr"
 
